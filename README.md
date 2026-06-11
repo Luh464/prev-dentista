@@ -26,9 +26,9 @@ O desenvolvimento e a refatoração foram realizados de forma colaborativa pelos
 * 👨‍💻 **Welbert Leite**
   * 🔗 [GitHub](https://github.com/Wel334)
 * 👩‍💻 **Laiz Rodrigues**
-  * 🔗 [GitHub](https://github.com/USUARIO_DA_LAIZ)
+  * 🔗 [GitHub](https://github.com/laizrodriguess)
 * 👨‍💻 **Ricardo Duarte**
-  * 🔗 [GitHub](https://github.com/USUARIO_DO_RICARDO)
+  * 🔗 [GitHub](https://github.com/rickDG2004)
 
 ## 🏗️ Arquitetura Utilizada (MVC em PHP)
 
