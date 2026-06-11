@@ -19,26 +19,35 @@ Nesta versão 2.0, o sistema foi transformado em uma plataforma flexível e esca
 
 Para garantir a manutenibilidade, separação de conceitos e clean code, o sistema foi migrado do modelo estruturado legado para o paradigma de **Orientação a Objetos (POO)** em PHP, seguindo o padrão arquitetural **MVC (Model-View-Controller)**:
 
-## 👥 A Equipe
-
-O desenvolvimento e a refatoração foram realizados de forma colaborativa pelos acadêmicos:
-
-* 👩‍💻 **Luciele Barra Sanches**
-  * 🔗 [GitHub](https://github.com/luh464)
-* 👨‍💻 **David Feitosa**
-  * 🔗 [GitHub](https://github.com/davidfeitosa22)
-* 👨‍💻 **Welbert Leite**
-  * 🔗 [GitHub](https://github.com/wel334)
-* 👩‍💻 **Laiz Rodrigues**
-  * 🔗 [GitHub](https://github.com/laizrodriguess)
-* 👨‍💻 **Ricardo Duarte**
-  * 🔗 [GitHub](https://github.com/rickdg2004)
-
 * **Model (Modelo):** Responsável pela lógica de persistência, conexão com o banco de dados e mapeamento das novas tabelas de parâmetros flexíveis.
 * **View (Visão):** Camada de interface com o usuário, responsável por exibir os formulários dinâmicos de lançamento e os relatórios financeiros discriminados.
 * **Controller (Controlador):** Onde reside a inteligência do sistema. Gerencia o fluxo de dados e executa os cálculos dinâmicos, como a nova regra de rateio complexo (50/10/40) e o versionamento histórico de preços.
 
 ---
+
+
+
+## 👥 A Equipe
+
+O desenvolvimento e a refatoração foram realizados de forma colaborativa pelos acadêmicos:
+
+* 👩‍💻 **Luciele Barra Sanches**
+
+  * 🔗 [GitHub](https://github.com/Luh464)
+* 👨‍💻 **David Feitosa**
+
+  * 🔗 [GitHub](https://github.com/davidfeitosa22)
+* 👨‍💻 **Welbert Leite**
+
+  * 🔗 [GitHub](https://github.com/Wel334)
+* 👩‍💻 **Laiz Rodrigues**
+
+  * 🔗 [GitHub](https://github.com/laizrodriguess)
+* 👨‍💻 **Ricardo Duarte**
+
+  * 🔗 [GitHub](https://github.com/rickDG2004)
+
+  ---
 
 ## 🗄️ Diagrama de Entidade-Relacionamento (DER)
 
@@ -47,6 +56,10 @@ O banco de dados foi reestruturado para suportar a flexibilização das regras d
 ![Diagrama de Entidade Relacionamento](database/diagrama.png)
 
 *(Caso a imagem não carregue, o arquivo original está localizado na pasta `/database` deste repositório).*
+
+---
+
+
 
 ## 🚀 Como Rodar o Projeto Localmente
 
