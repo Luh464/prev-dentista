@@ -15,6 +15,7 @@ Nesta versão 2.0, o sistema foi transformado em uma plataforma flexível e esca
 
 ---
 
+
 ## 👥 A Equipe
 
 O desenvolvimento e a refatoração foram realizados de forma colaborativa pelos acadêmicos:
@@ -24,11 +25,12 @@ O desenvolvimento e a refatoração foram realizados de forma colaborativa pelos
 * 👨‍💻 **David Feitosa**
   * 🔗 [GitHub](https://github.com/davidfeitosa22)
 * 👨‍💻 **Welbert Leite**
-  * 🔗 [GitHub](https://github.com/Wel334)
+  * 🔗 [GitHub](https://github.com/wel334)
 * 👩‍💻 **Laiz Rodrigues**
   * 🔗 [GitHub](https://github.com/laizrodriguess)
 * 👨‍💻 **Ricardo Duarte**
   * 🔗 [GitHub](https://github.com/rickDG2004)
+
 
 ## 🏗️ Arquitetura Utilizada (MVC em PHP)
 
