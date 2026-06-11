@@ -19,12 +19,16 @@ Nesta versão 2.0, o sistema foi transformado em uma plataforma flexível e esca
 
 O desenvolvimento e a refatoração foram realizados de forma colaborativa pelos acadêmicos:
 
-* **Luciele Barra Sanches** — [GitHub](https://github.com/seu-usuario)
-* **David Feitosa** — [GitHub](https://github.com/usuario-david)
-* **Welbert Leite** — [GitHub](https://github.com/usuario-welbert)
-* **Laiz Rodrigues** — [GitHub](https://github.com/usuario-laiz)
-
----
+* 👩‍💻 **Luciele Barra Sanches**
+  * 🔗 [GitHub](https://github.com/Luh464)
+* 👨‍💻 **David Feitosa**
+  * 🔗 [GitHub](https://github.com/davidfeitosa22)
+* 👨‍💻 **Welbert Leite**
+  * 🔗 [GitHub](https://github.com/Wel334)
+* 👩‍💻 **Laiz Rodrigues**
+  * 🔗 [GitHub](https://github.com/USUARIO_DA_LAIZ)
+* 👨‍💻 **Ricardo Duarte**
+  * 🔗 [GitHub](https://github.com/USUARIO_DO_RICARDO)
 
 ## 🏗️ Arquitetura Utilizada (MVC em PHP)
 
