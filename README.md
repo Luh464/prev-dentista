@@ -25,29 +25,22 @@ Para garantir a manutenibilidade, separação de conceitos e clean code, o siste
 
 ---
 
-
+* ---
 
 ## 👥 A Equipe
 
 O desenvolvimento e a refatoração foram realizados de forma colaborativa pelos acadêmicos:
 
 * 👩‍💻 **Luciele Barra Sanches**
-
   * 🔗 [GitHub](https://github.com/Luh464)
 * 👨‍💻 **David Feitosa**
-
   * 🔗 [GitHub](https://github.com/davidfeitosa22)
 * 👨‍💻 **Welbert Leite**
-
-  * 🔗 [GitHub](https://github.com/Wel334)
+  * 🔗 [GitHub](https://github.com/welbertsantos-ops)
 * 👩‍💻 **Laiz Rodrigues**
-
   * 🔗 [GitHub](https://github.com/laizrodriguess)
 * 👨‍💻 **Ricardo Duarte**
-
   * 🔗 [GitHub](https://github.com/rickDG2004)
-
-  ---
 
 ## 🗄️ Diagrama de Entidade-Relacionamento (DER)
 
@@ -58,8 +51,6 @@ O banco de dados foi reestruturado para suportar a flexibilização das regras d
 *(Caso a imagem não carregue, o arquivo original está localizado na pasta `/database` deste repositório).*
 
 ---
-
-
 
 ## 🚀 Como Rodar o Projeto Localmente
 
