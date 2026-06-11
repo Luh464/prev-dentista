@@ -44,10 +44,9 @@ Para garantir a manutenibilidade, separação de conceitos e clean code, o siste
 
 O banco de dados foi reestruturado para suportar a flexibilização das regras de negócio (cenários de comissão, taxas por bandeira/parcela e histórico de preços).
 
-![Diagrama de Entidade Relacionamento](database/der.png)
-*(Caso a imagem não carregue, o arquivo original está localizado na pasta `/database` deste repositório).*
+![Diagrama de Entidade Relacionamento](database/diagrama.png)
 
----
+*(Caso a imagem não carregue, o arquivo original está localizado na pasta `/database` deste repositório).*
 
 ## 🚀 Como Rodar o Projeto Localmente
 
