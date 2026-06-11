@@ -15,13 +15,16 @@ Nesta versão 2.0, o sistema foi transformado em uma plataforma flexível e esca
 
 ---
 
+## 🏗️ Arquitetura Utilizada (MVC em PHP)
+
+Para garantir a manutenibilidade, separação de conceitos e clean code, o sistema foi migrado do modelo estruturado legado para o paradigma de **Orientação a Objetos (POO)** em PHP, seguindo o padrão arquitetural **MVC (Model-View-Controller)**:
 
 ## 👥 A Equipe
 
 O desenvolvimento e a refatoração foram realizados de forma colaborativa pelos acadêmicos:
 
 * 👩‍💻 **Luciele Barra Sanches**
-  * 🔗 [GitHub](https://github.com/Luh464)
+  * 🔗 [GitHub](https://github.com/luh464)
 * 👨‍💻 **David Feitosa**
   * 🔗 [GitHub](https://github.com/davidfeitosa22)
 * 👨‍💻 **Welbert Leite**
@@ -29,12 +32,7 @@ O desenvolvimento e a refatoração foram realizados de forma colaborativa pelos
 * 👩‍💻 **Laiz Rodrigues**
   * 🔗 [GitHub](https://github.com/laizrodriguess)
 * 👨‍💻 **Ricardo Duarte**
-  * 🔗 [GitHub](https://github.com/rickDG2004)
-
-
-## 🏗️ Arquitetura Utilizada (MVC em PHP)
-
-Para garantir a manutenibilidade, separação de conceitos e clean code, o sistema foi migrado do modelo estruturado legado para o paradigma de **Orientação a Objetos (POO)** em PHP, seguindo o padrão arquitetural **MVC (Model-View-Controller)**:
+  * 🔗 [GitHub](https://github.com/rickdg2004)
 
 * **Model (Modelo):** Responsável pela lógica de persistência, conexão com o banco de dados e mapeamento das novas tabelas de parâmetros flexíveis.
 * **View (Visão):** Camada de interface com o usuário, responsável por exibir os formulários dinâmicos de lançamento e os relatórios financeiros discriminados.
