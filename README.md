@@ -67,3 +67,5 @@ Siga os passos abaixo para executar a aplicação em seu ambiente de desenvolvim
 git clone [https://github.com/seu-usuario/prev-dentista.git](https://github.com/seu-usuario/prev-dentista.git)
 cd prev-dentista
 ```
+* 🚀 **Versão Final (Repositório Consolidado):** Sistema totalmente estruturado em MVC, com Painel Administrativo Dinâmico, blindagem histórica de preços e o Novo Modelo de Rateio Complexo (50/10/40) para casos especializados.
+  * [Acesse aqui o Repositório da Versão Final](https://github.com/Luh464/prev-dentista-versao-final)
